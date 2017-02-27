@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Visualization home
 
-You can use the [editor on GitHub](https://github.com/ChartsLab/ChartsLab/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here you can find a ton of component that helps you to see your data and enjoy with manipulating it.You can view all component with love on [GitHub](https://github.com/ChartsLab/ChartsLab) and don't forget to [Fork us](https://github.com/ChartsLab/ChartsLab#fork-destination-box)
 
 ### Markdown
 
