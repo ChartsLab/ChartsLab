@@ -2,9 +2,22 @@
 
 Here you can find a ton of component that helps you to see your data and enjoy with manipulating it.You can view all component with love on [GitHub](https://github.com/ChartsLab/ChartsLab) and don't forget to [Fork us](https://github.com/ChartsLab/ChartsLab#fork-destination-box)
 
-### Markdown
+**ChartsLab** is a JavaScript library for manipulating _HTML5_ _canvas_ based on data. ChartsLab helps you bring data to life. ChartsLab has a tens of microlibrary ready to help you and tons of components that manipulate HTML5 canvas for you. For more comfort we uses HTML5 canvas that makes you page sweet and clean and we made it easy to use with love just for you.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### INSTALL
+To install **ChartsLab** just download the latest release and plug it in
+
+```html
+<script src="chartsLab.js"></script>
+```
+The full source and tests are also available for download on [GitHub](https://github.com/ChartsLab/ChartsLab). Show your support for ChartsLab’s ongoing development by buying donating!
+
+## Introduction
+
+## Examples for you
+
+## See also
+
 
 ```markdown
 Syntax highlighted code block
