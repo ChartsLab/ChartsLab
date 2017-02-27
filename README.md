@@ -13,36 +13,15 @@ To install **ChartsLab** just download the latest release and plug it in
 The full source and tests are also available for download on [GitHub](https://github.com/ChartsLab/ChartsLab). Show your support for ChartsLab’s ongoing development by buying donating!
 
 ## Introduction
+**ChartsLab** introduces a new visual representation. You can invent new shapes and play with it and plot it, but the most important thing is you creativity is what we need. we supprt you with component and vocabulary of graphical marks comes directly from web standards inhanced and simplified for your imagination. For example, you can create Axis elements using ChartsLab-Axis and style them with easy to use functionality and add to them some Points from ChartsLab-Shape and congrates you make a Scatter plot. You can use composite filter effects, dashed strokes and clipping. If browser vendors introduce new features tomorrow, you’ll be able to use them immediately—no toolkit update required. And, if you decide in the future to use a toolkit other than ChartsLab, you can take your knowledge of standards with you!
+
+Best of all, ChartsLab is easy to debug using the built-in element Debugger, and say goodbye for browser debugger.
 
 ## Examples for you
+```js
+
+```
+
 
 ## See also
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChartsLab/ChartsLab/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
